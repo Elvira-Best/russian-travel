@@ -15,7 +15,7 @@
 
 ### Ссылка на сайт
 
-https://github.com/Elvira-Best/russian-travel.git
+https://elvira-best.github.io/russian-travel/
 
 **Figma**
 
